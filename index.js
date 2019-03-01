@@ -6,4 +6,6 @@ class President{
     this.yearsInOffice = yearsInOffice;
     this.homeState = homestate;
   }
+
+  
 }
