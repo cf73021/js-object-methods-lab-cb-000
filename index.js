@@ -12,18 +12,18 @@ class President{
   }
 
   passBill(){
-    console.log("You can do that!")
+    return("You can do that!")
   }
 
   doCharity(){
-    console.log("I like to help people.")
+    return("I like to help people.")
   }
 
   conductPressInterview(){
-    console.log("I am proud to be an American.")
+    return("I am proud to be an American.")
   }
 
   sayHi(){
-    console.log("Hi, my name is ${name}. I am from ${homestate}. I represent the ${politicalParty}s, and was in office ${yearsInOffice}.")
+    return("Hi, my name is ${name}. I am from ${homestate}. I represent the ${politicalParty}s, and was in office ${yearsInOffice}.")
   }
 }
