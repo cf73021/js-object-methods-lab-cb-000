@@ -1,4 +1,4 @@
 // code solution here
-function President(name, politicalParty, yearsInOffice, homeState){
-  
+class President{
+  constructor(name, politicalParty, yearsInOffice, homestate)
 }
