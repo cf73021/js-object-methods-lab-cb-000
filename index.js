@@ -8,7 +8,7 @@ class President{
   }
 
   veto(){
-    console.log("NO!")
+    return("NO!")
   }
 
   passBill(){
