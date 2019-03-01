@@ -4,7 +4,7 @@ class President{
     this.name = name;
     this.politicalParty = politicalParty;
     this.yearsInOffice = yearsInOffice;
-    this.homeState = homestate;
+    this.homeState = homeState;
   }
 
   veto(){
